@@ -236,6 +236,8 @@ img.newsletter {
 input.newsletter {
     border: solid white;
     width: 236px;
+    color: black;
+    background-color: white;
 }
 
 img.email {
