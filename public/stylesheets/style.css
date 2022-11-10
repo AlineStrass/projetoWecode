@@ -307,7 +307,7 @@ p.dropdown-item {
 
 p.certificates {
     align-items: center;
-    margin-bottom: 0;
+    margin-bottom: 10px;
     padding: 0;
     font-size: 14px;
 }
