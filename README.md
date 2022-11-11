@@ -14,7 +14,7 @@ Reproduzir uma página de e-commerce em resolução para mobile, conforme modelo
 
 Através do terminal clone o diretório usando a chave SSH através seguinte comando:
 ```bash
-git clone ggit@github.com:AlineStrass/projetoWecode.git
+git clone git@github.com:AlineStrass/projetoWecode.git
 
 ```
 
