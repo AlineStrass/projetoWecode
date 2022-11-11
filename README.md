@@ -1,7 +1,7 @@
 # Desafio Técnico Wecode
 
 ## Objetivo:
-Reproduzir uma página de e-commerce em resolução para mobile, conforme modelo disponibilizado pela empresa Wecode.
+Reproduzir a página inicial de um e-commerce em resolução para mobile, conforme modelo disponibilizado pela empresa Wecode.
 
 ## Tecnologias:
 - [HTLM5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
