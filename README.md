@@ -4,9 +4,9 @@
 Reproduzir uma página de e-commerce em resolução para mobile, conforme modelo disponibilizado pela empresa Wecode.
 
 ## Tecnologias:
-- HTLM5
-- CSS3
-- Javascript
+- [HTLM5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 
